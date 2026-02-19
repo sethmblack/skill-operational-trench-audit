@@ -3,8 +3,9 @@ name: operational-trench-audit
 description: Gather ground-level operational reality that executive reports miss through structured engagement with frontline operations.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4614
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - escalation
 - operational-trench-audit
